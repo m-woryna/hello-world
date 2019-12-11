@@ -7,10 +7,13 @@ GITHUB :  </h1>
 - Wejdź w ustawienia repozytorium menu -> settings
 - Przewiń na dół do sekcji GitHub Pages
 - Wybierz Source – master branch
-- Zapisz zamiany - Kliknij przycisk SAVE. 
-Po odświeżeniu zobaczysz swój adres strony https://m-woryna.github.io/hello-world/
-Twoja strona została opublikowana po tym adresem. Tekst w pliku README.md
-Aby przejść do pliku README.md trzeba wybrać z menu -> code
+- Zapisz zamiany - Kliknij przycisk SAVE. <br>
+Po odświeżeniu zobaczysz swój adres strony https://m-woryna.github.io/hello-world/<br>
+Twoja strona została opublikowana po tym adresem. Tekst w pliku README.md<br>
+Aby przejść do pliku README.md trzeba wybrać z menu -> code<br>
+Wybrać plik i nacisnąć ołówek w prawym górnym rogu w celu Edit <br>
+Po wrowadzeniu zmian nacinąć Commit i prazejśc do Sttings aby zobaczyć zmiany. <br>
+Zmiana Theme - efekt może być widoczny ze znacznym poślizgiem.
 
 <h1>
 SYMFONY :  </h1>
