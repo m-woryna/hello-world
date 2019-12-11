@@ -16,6 +16,9 @@ Po wrowadzeniu zmian nacinąć Commit i prazejśc do Sttings aby zobaczyć zmian
 Zmiana Theme - efekt może być widoczny ze znacznym poślizgiem.<br>
 Aby zobaczyć ostatnie zmiany trzeba odświeżyć stronę.
 
+<IMG SRC="ogrodnik-zima1.jpg" BORDER="0"  ALT="obrazek zimowy">
+<b>graficzny przerywnik <BR>
+  
 <h1>
 SYMFONY :  </h1>
 
