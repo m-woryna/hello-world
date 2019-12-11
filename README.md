@@ -19,7 +19,7 @@ Aby zobaczyć ostatnie zmiany trzeba przejśc przez Settings -> GitHub Pages ->S
 <IMG SRC="ogrodnik_zima1.jpg" BORDER="0"  ALT="obrazek zimowy">
   <b>graficzny przerywnik dla relaksu - w sumie fajne narzędzie</b> <BR>
  <br>
-  jutro spróbujemy plik z turystyki przerobić ;)
+  jutro spróbujemy plik z turystyki przerobić ;) i nasac tekst do fikusa sprężystego ....
 <h1>
 SYMFONY :  </h1>
 
