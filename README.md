@@ -17,7 +17,7 @@ Zmiana Theme - efekt może być widoczny ze znacznym poślizgiem.<br>
 Aby zobaczyć ostatnie zmiany trzeba odświeżyć stronę.
 
 <IMG SRC="ogrodnik_zima1.jpg" BORDER="0"  ALT="obrazek zimowy">
-<b>graficzny przerywnik <BR>
+  <b>graficzny przerywnik dla relaksu </b> <BR>
   
 <h1>
 SYMFONY :  </h1>
