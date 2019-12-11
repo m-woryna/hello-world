@@ -8,7 +8,8 @@ GITHUB :  </h1>
 - Przewiń na dół do sekcji GitHub Pages
 - Wybierz Source – master branch
 - Zapisz zamiany - Kliknij przycisk SAVE. 
-Po odświeżeniu zobaczysz swój adres strony
+Po odświeżeniu zobaczysz swój adres strony https://m-woryna.github.io/hello-world/
+Twoja strona została opublikowana po tym adresem. Tekst w pliku README.md
 
 <h1>
 SYMFONY :  </h1>
