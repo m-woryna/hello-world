@@ -2,6 +2,15 @@
 pomysły i nauka
 
 <h1>
+GITHUB :  </h1>
+- Utwórz repozytorium z projektem lub wybierz istniejące repozytorium np hello-world
+- Wejdź w ustawienia repozytorium menu -> settings
+- Przewiń na dół do sekcji GitHub Pages
+- Wybierz Source – master branch
+- Zapisz zamiany - Kliknij przycisk SAVE. 
+Po odświeżeniu zobaczysz swój adres strony
+
+<h1>
 SYMFONY :  </h1>
 
 Symfony to zestaw komponentów PHP wielokrotnego użytku ...<br>
