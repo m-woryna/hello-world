@@ -13,7 +13,8 @@ Twoja strona została opublikowana po tym adresem. Tekst w pliku README.md<br>
 Aby przejść do pliku README.md trzeba wybrać z menu -> code<br>
 Wybrać plik i nacisnąć ołówek w prawym górnym rogu w celu Edit <br>
 Po wrowadzeniu zmian nacinąć Commit i prazejśc do Sttings aby zobaczyć zmiany. <br>
-Zmiana Theme - efekt może być widoczny ze znacznym poślizgiem.
+Zmiana Theme - efekt może być widoczny ze znacznym poślizgiem.<br>
+Aby zobaczyć ostatnie zmiany trzeba odświeżyć stronę.
 
 <h1>
 SYMFONY :  </h1>
