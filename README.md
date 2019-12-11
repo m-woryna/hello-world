@@ -15,7 +15,7 @@ Wybrać plik i nacisnąć ołówek w prawym górnym rogu w celu Edit <br>
 Po wrowadzeniu zmian nacinąć Commit i przejść do Sttings aby zobaczyć zmiany. <br>
 Zmiana Theme - efekt może być widoczny ze znacznym poślizgiem.<br>
 Aby zobaczyć ostatnie zmiany trzeba przejśc przez Settings -> GitHub Pages ->Source - Master branch  i odświeżyć stronę.
-
+<br><br>
 <IMG SRC="ogrodnik_zima1.jpg" BORDER="0"  ALT="obrazek zimowy">
   <b>graficzny przerywnik dla relaksu - w sumie fajne narzędzie</b> <BR>
   
