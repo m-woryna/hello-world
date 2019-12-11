@@ -21,6 +21,8 @@ Aby zobaczyć ostatnie zmiany trzeba przejśc przez Settings -> GitHub Pages ->S
  <br>
   pomocna strona : https://www.flynerd.pl/2018/02/opublikowac-strone-internetowa-github-pages-krok-kroku.html
   <br>
+  https://www.flynerd.pl/2018/02/github-dla-zielonych-pierwsze-repozytorium.html
+  <br>
   jutro spróbujemy plik z turystyki przerobić ;) i nasac tekst do fikusa sprężystego ....
 <h1>
 SYMFONY :  </h1>
