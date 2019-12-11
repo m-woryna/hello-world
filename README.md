@@ -23,7 +23,20 @@ Aby zobaczyć ostatnie zmiany trzeba przejśc przez Settings -> GitHub Pages ->S
   <br>
   https://www.flynerd.pl/2018/02/github-dla-zielonych-pierwsze-repozytorium.html
   <br>
-  jutro spróbujemy plik z turystyki przerobić ;) i nasac tekst do fikusa sprężystego ....
+  jutro spróbujemy plik z turystyki przerobić ;) i nasac tekst do fikusa sprężystego ....<br><br>
+  
+GitHub flow to lekki, oparty na oddziałach przepływ pracy, który wspiera zespoły i projekty, w których wdrażanie odbywa się regularnie. W tym przewodniku wyjaśniono, jak i dlaczego działa przepływ GitHub.<br>
+
+<h3> Utwórz branch</h3>
+
+Kiedy pracujesz nad projektem, będziesz mieć mnóstwo różnych funkcji lub pomysłów w toku w danym momencie - niektóre z nich są gotowe, a inne nie. Branch istnieje, aby pomóc Ci zarządzać tym przepływem pracy. <br>
+
+<h3>ProTip</h3>
+
+Branch jest podstawową koncepcją w Git i na nim opiera się cały przepływ GitHub. Jest tylko jedna zasada: wszystko w gałęzi master jest zawsze możliwe do wdrożenia.<br>
+Z tego powodu niezwykle ważne jest, aby twoja nowa branch została utworzona jako master podczas pracy nad funkcją lub poprawką. Nazwa branch powinna mieć charakter opisowy (np. Uwierzytelnianie refaktora, klucz pamięci podręcznej treści użytkownika, make-retina-avatary), aby inni mogli zobaczyć, nad czym pracuje.<br><br>
+
+
 <h1>
 SYMFONY :  </h1>
 
