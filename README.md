@@ -10,6 +10,7 @@ GITHUB :  </h1>
 - Zapisz zamiany - Kliknij przycisk SAVE. 
 Po odświeżeniu zobaczysz swój adres strony https://m-woryna.github.io/hello-world/
 Twoja strona została opublikowana po tym adresem. Tekst w pliku README.md
+Aby przejść do pliku README.md trzeba wybrać z menu -> code
 
 <h1>
 SYMFONY :  </h1>
