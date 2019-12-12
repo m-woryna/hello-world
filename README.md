@@ -23,7 +23,7 @@ Aby zobaczyć ostatnie zmiany trzeba przejśc przez Settings -> GitHub Pages ->S
   <br>
   https://www.flynerd.pl/2018/02/github-dla-zielonych-pierwsze-repozytorium.html
   <br>
-  jutro spróbujemy plik z turystyki przerobić ;) i nasac tekst do fikusa sprężystego ....<br><br>
+  jutro zainstalowac program git na kompie, spróbujemy plik z turystyki przerobić ;) i nasac tekst do fikusa sprężystego ....<br><br>
   
 GitHub flow to lekki, oparty na oddziałach przepływ pracy, który wspiera zespoły i projekty, w których wdrażanie odbywa się regularnie. W tym przewodniku wyjaśniono, jak i dlaczego działa przepływ GitHub.<br>
 
