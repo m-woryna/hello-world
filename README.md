@@ -63,6 +63,20 @@ Możesz także nadal naciskać na swój branch w świetle dyskusji i informacji 
 
 Komentarze Pull Request są zapisywane w Markdown, więc możesz osadzać obrazy i emoji, używać wstępnie sformatowanych bloków tekstowych i innych lekkich formatowań.
 
+<h3>Rozmieścić</h3>
+
+Dzięki GitHub możesz wdrożyć z Branch do końcowego testowania w produkcji przed połączeniem z głównym.
+
+Po sprawdzeniu Pull Request i przejściu testów przez Branch można wdrożyć zmiany, aby zweryfikować je w środowisku produkcyjnym. Jeśli twoja Branch powoduje problemy, możesz ją wycofać, wdrażając istniejący wzorzec do produkcji.
+
+<h3>Merge</h3>
+
+Teraz, gdy zmiany zostały zweryfikowane w produkcji, nadszedł czas, aby scalić kod w master branch.
+Po Merge Pull Request zachowują zapis historycznych zmian w kodzie. Ponieważ można je przeszukiwać, pozwalają każdemu cofnąć się w czasie, aby zrozumieć, dlaczego i jak podjęto decyzję.
+
+<h3>ProTip</h3>
+Umieszczając określone słowa kluczowe w tekście Pull Request, możesz powiązać problemy z kodem. Po Merge Pull Request powiązane problemy również zostają zamknięte. Na przykład wpisanie frazy Zamknięcie # 32 spowoduje zamknięcie numeru sprawy 32 w repozytorium. Aby uzyskać więcej informacji, zapoznaj się z naszym artykułem pomocy.
+
 <h1>
 SYMFONY :  </h1>
 
