@@ -44,6 +44,24 @@ Zatwierdzenia tworzą również przejrzystą historię twojej pracy, którą inn
 
 Komunikaty zatwierdzania są ważne, zwłaszcza że Git śledzi zmiany, a następnie wyświetla je jako zatwierdzenia po przekazaniu ich na serwer. Pisząc jasne komunikaty zatwierdzania, możesz ułatwić innym osobom śledzenie i przesyłanie opinii.
 
+<h3>Open a Pull Request</h3>
+Pull Requests inicjuje dyskusję o twoich zobowiązaniach. Ponieważ są ściśle zintegrowane z bazowym repozytorium Git, każdy może zobaczyć, jakie zmiany zostałyby scalone, gdyby zaakceptował twoje żądanie.
+Możesz otworzyć Pull ReQuest w dowolnym momencie procesu programowania: gdy masz mało kodu lub nie masz go, ale chcesz udostępnić zrzuty ekranu lub ogólne pomysły, gdy utkniesz i potrzebujesz pomocy lub porady, lub gdy jesteś gotowy na kogoś przejrzeć swoją pracę. Korzystając z systemu @mention GitHub w komunikacie Pull Request, możesz poprosić o informacje zwrotne od konkretnych osób lub zespołów, niezależnie od tego, czy są na dole korytarza, czy w dziesięciu strefach czasowych.
+
+<h3>ProTip</h3>
+
+Pull Request są przydatne do przyczyniania się do projektów typu open source i zarządzania zmianami w udostępnianych repozytoriach. Jeśli korzystasz z modelu Fork & Pull, żądania ściągnięcia zapewniają sposób powiadamiania opiekunów projektu o zmianach, które chcesz rozważyć. Jeśli korzystasz z modelu współdzielonego repozytorium, żądania ściągania pomagają rozpocząć przegląd kodu i rozmowę na temat proponowanych zmian przed ich scaleniem w gałęzi głównej.
+
+<h3>Omów i przejrzyj swój kod</h3>
+
+Po otwarciu Pull Request osoba lub zespół przeglądający twoje zmiany mogą mieć pytania lub komentarze. 
+Być może styl kodowania nie jest zgodny z wytycznymi projektu, w zmianie brakuje testów jednostkowych, a może wszystko wygląda świetnie, a rekwizyty są w porządku. Pull Request mają na celu zachęcanie i przechwytywanie tego typu konwersacji.
+
+Możesz także nadal naciskać na swój branch w świetle dyskusji i informacji zwrotnych na temat swoich zobowiązań. Jeśli ktoś komentuje, że zapomniałeś coś zrobić lub jeśli w kodzie jest błąd, możesz to naprawić w swoim branch i przyspieszyć zmianę. GitHub pokaże twoje nowe zobowiązania i wszelkie dodatkowe informacje zwrotne, które możesz otrzymać w ujednoliconym widoku Pull Request.
+
+<h3>ProTip</h3>
+
+Komentarze Pull Request są zapisywane w Markdown, więc możesz osadzać obrazy i emoji, używać wstępnie sformatowanych bloków tekstowych i innych lekkich formatowań.
 
 <h1>
 SYMFONY :  </h1>
