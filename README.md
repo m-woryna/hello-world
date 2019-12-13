@@ -36,6 +36,14 @@ Kiedy pracujesz nad projektem, będziesz mieć mnóstwo różnych funkcji lub po
 Branch jest podstawową koncepcją w Git i na nim opiera się cały przepływ GitHub. Jest tylko jedna zasada: wszystko w gałęzi master jest zawsze możliwe do wdrożenia.<br>
 Z tego powodu niezwykle ważne jest, aby twoja nowa branch została utworzona jako master podczas pracy nad funkcją lub poprawką. Nazwa branch powinna mieć charakter opisowy (np. Uwierzytelnianie refaktora, klucz pamięci podręcznej treści użytkownika, make-retina-avatary), aby inni mogli zobaczyć, nad czym pracuje.<br><br>
 
+<h3>Add commits</h3>
+Po utworzeniu branch czas zacząć wprowadzać zmiany. Ilekroć dodajesz, edytujesz lub usuwasz plik, dokonujesz zatwierdzenia i dodajesz go do swojego branch. Ten proces dodawania zatwierdzeń śledzi Twoje postępy podczas pracy nad gałęzią funkcji.
+Zatwierdzenia tworzą również przejrzystą historię twojej pracy, którą inni mogą śledzić, aby zrozumieć, co zrobiłeś i dlaczego. Każdemu zatwierdzeniu towarzyszy powiązany komunikat zatwierdzenia, który jest opisem wyjaśniającym, dlaczego wprowadzono określoną zmianę. Ponadto każde zatwierdzenie jest traktowane jako oddzielna jednostka zmiany. Pozwala to wycofać zmiany, jeśli błąd zostanie znaleziony lub jeśli zdecydujesz się pójść w innym kierunku.
+
+<h3>ProTip</h3>
+
+Komunikaty zatwierdzania są ważne, zwłaszcza że Git śledzi zmiany, a następnie wyświetla je jako zatwierdzenia po przekazaniu ich na serwer. Pisząc jasne komunikaty zatwierdzania, możesz ułatwić innym osobom śledzenie i przesyłanie opinii.
+
 
 <h1>
 SYMFONY :  </h1>
