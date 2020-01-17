@@ -217,3 +217,47 @@ Example {{ 5 + 5 }} or {{ firstName + " " + lastName }}
 </body>
 </html>
 ----------
+!!! If you remove the ng-app directive, HTML will display the expression as it is, without solving it: !!!
+
+You can write expressions wherever you like, AngularJS will simply resolve the expression and return the result.
+
+Example: Let AngularJS change the value of CSS properties.
+Change the color of the input box below, by changing its value:
+-----------
+<!DOCTYPE html>
+<html>
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.9/angular.min.js"></script>
+<body>
+
+<p>Change the value of the input field:</p>
+
+<div ng-app="" ng-init="myCol='lightblue'">
+
+<input style="background-color:{{myCol}}" ng-model="myCol">
+
+</div>
+
+<p>AngularJS resolves the expression and returns the result.</p>
+
+<p>The background color of the input box will be whatever you write in the input field.</p>
+
+</body>
+</html>
+-----------------
+AngularJS Numbers
+===============
+
+AngularJS numbers are like JavaScript numbers:
+----------
+<!DOCTYPE html>
+<html>
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.9/angular.min.js"></script>
+<body>
+
+<div ng-app="" ng-init="quantity=2;cost=5">
+<p>Total in dollar: {{ quantity * cost }}</p>
+</div>
+
+</body>
+</html>
+---------
