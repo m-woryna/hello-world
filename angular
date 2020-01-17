@@ -261,3 +261,73 @@ AngularJS numbers are like JavaScript numbers:
 </body>
 </html>
 ---------
+Same example using ng-bind:
+---------
+<!DOCTYPE html>
+<html>
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.9/angular.min.js"></script>
+<body>
+
+<div ng-app="" ng-init="quantity=2;cost=5">
+<p>Total in dollar: <span ng-bind="quantity * cost"></span></p>
+</div>
+
+</body>
+</html>
+-----------
+!!!!! Using ng-init is not very common. You will learn a better way to initialize data in the chapter about controllers.
+
+AngularJS Strings
+====================
+AngularJS strings are like JavaScript strings:
+----------
+<!DOCTYPE html>
+<html>
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.9/angular.min.js"></script>
+<body>
+
+<div ng-app="" ng-init="firstName='John';lastName='Doe'">
+
+<p>The full name is: {{ firstName + " " + lastName }}</p>
+
+</div>
+
+</body>
+</html>
+-----------
+Same example using ng-bind:
+------------
+<!DOCTYPE html>
+<html>
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.9/angular.min.js"></script>
+<body>
+
+<div ng-app="" ng-init="firstName='John';lastName='Doe'">
+
+<p>The full name is: <span ng-bind="firstName + ' ' + lastName"></span></p>
+
+</div>
+
+</body>
+</html>
+----------
+
+AngularJS Objects
+===================
+AngularJS objects are like JavaScript objects:
+-------------
+<!DOCTYPE html>
+<html>
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.9/angular.min.js"></script>
+<body>
+
+<div ng-app="" ng-init="person={firstName:'John',lastName:'Doe'}">
+
+<p>The name is {{ person.lastName }}</p>
+<p>The imie is {{ person.firstName }}</p>
+</div>
+
+</body>
+</html>
+-----------
+
