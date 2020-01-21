@@ -329,5 +329,45 @@ AngularJS objects are like JavaScript objects:
 
 </body>
 </html>
+---------------------
+
+AngularJS Arrays
+=================
+AngularJS arrays are like JavaScript arrays:
+Example
+----------
+<!DOCTYPE html>
+<html>
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.9/angular.min.js"></script>
+<body>
+
+<div ng-app="" ng-init="points=[1,15,19,2,40]">
+
+<p>The third result is {{ points[2] }}</p>
+
+</div>
+
+</body>
+</html>
+----------------------
+
+Same example using ng-bind:
+-------------------------
+<!DOCTYPE html>
+<html>
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.9/angular.min.js"></script>
+<body>
+
+<div ng-app="" ng-init="points=[1,15,19,2,40]">
+
+<p>The third result is <span ng-bind="points[2]"></span></p>
+
+</div>
+
+</body>
+</html>
+---------------------
+
+
 ----------- https://www.w3schools.com/angular/angular_expressions.asp
 
