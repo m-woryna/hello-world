@@ -27,6 +27,11 @@ Aby zobaczyć ostatnie zmiany trzeba przejśc przez Settings -> GitHub Pages ->S
   
 GitHub flow to lekki, oparty na oddziałach przepływ pracy, który wspiera zespoły i projekty, w których wdrażanie odbywa się regularnie. W tym przewodniku wyjaśniono, jak i dlaczego działa przepływ GitHub.<br>
 
+<h3> zmiana nazwy repozytorium </h3>
+-  wybierz repozytorium a następnie spo prawej stronie wybierz Settings --> Rename zmienn nazwię i potwierdż.
+<h3 usuń plik z repozytorium </h3>
+wybierz plik z repozytorium, naciśnij ikonę edycji (ołówek w pawym górnym rogu) i naciśnji usuń (ikona kosza w parwym górnym rogu)
+  
 <h3> Utwórz branch</h3>
 
 Kiedy pracujesz nad projektem, będziesz mieć mnóstwo różnych funkcji lub pomysłów w toku w danym momencie - niektóre z nich są gotowe, a inne nie. Branch istnieje, aby pomóc Ci zarządzać tym przepływem pracy. <br>
