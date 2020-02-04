@@ -29,7 +29,7 @@ GitHub flow to lekki, oparty na oddziałach przepływ pracy, który wspiera zesp
 
 <h3> zmiana nazwy repozytorium </h3>
 -  wybierz repozytorium a następnie spo prawej stronie wybierz Settings --> Rename zmienn nazwię i potwierdż.
-<h3 usuń plik z repozytorium </h3>
+<h3> usuń plik z repozytorium </h3>
 wybierz plik z repozytorium, naciśnij ikonę edycji (ołówek w pawym górnym rogu) i naciśnji usuń (ikona kosza w parwym górnym rogu)
   
 <h3> Utwórz branch</h3>
