@@ -1,6 +1,6 @@
 # hello-world
-pomysły i nauka
-
+pomysły i nauka zmiana tekstu
+  
 <h1>
 GITHUB :  </h1>
 - Utwórz repozytorium z projektem lub wybierz istniejące repozytorium np hello-world
