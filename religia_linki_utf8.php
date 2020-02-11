@@ -77,6 +77,10 @@ $religia='
  <br>
 <br>
 
+<B>Łódzkie</B><br>
+<a HREF="https://gidle.dominikanie.pl/" target="_blank" >https://gidle.dominikanie.pl/</A> - Sanktuarium Matki Bożej w Gidlach.<br>
+<br>
+
 <B>świętokrzyskie</B><br>
 <a HREF="http://www.swietykrzyz.pl/" target="_blank" >http://www.swietykrzyz.pl/</A> - Sanktuarium Relikwii Krzyża Świętego, znajdujące się na Świętym Krzyżu (Łysej Górze) w Górach Świętokrzyskich, Bieliny (woj.Świętokrzyskie)<br>
 <br>
